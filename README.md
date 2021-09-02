@@ -1,4 +1,4 @@
-### Learning through trial & error versus constant success. Often not by choice. 😉
+### Learning through trial & error. Often not by choice. 😉
 
 ---
 
