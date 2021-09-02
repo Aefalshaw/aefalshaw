@@ -2,7 +2,7 @@
 
 ---
 
-🖖 Hey, thanks for swinging by!
+### 🖖 Hey, thanks for swinging by!
 
 👾 I'm currently a newer face in the industry but have some really neat things in route. I'm coming up on a year as a full time teaching assistant at a local Seattle bootcamp - Coding Dojo. I made the most of my pandemic shut-in by attending and graduating from this same bootcamp in 2020. I left my position in the direct line of healthcare to switch career fields but hope to return someday with my new skill set addition. My drive to help others in unique ways has always been the backbone to my motivation of work.
 
@@ -15,7 +15,7 @@
 ⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
 With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
 
-😷 Stay safe and happy coding!
+### 😷 Stay safe and happy coding!
 
 ---
 
