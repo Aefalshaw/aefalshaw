@@ -13,7 +13,7 @@
 ✈️ Outside of being online, I love to unplug and travel the world. My more recent trips have been very local, outdoors, and socially distanced but my history of experiencing new cultures, traditions and especially new foods has made me the eccentric wild card I am today. Diversity has always been extremely important to me and I am looking forward to one day being a part of a team that holds strong to this as well. 
 
 ⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
-With everything going I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
+With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
 
 😷 Stay safe and happy coding!
 
