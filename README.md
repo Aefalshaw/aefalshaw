@@ -1,4 +1,4 @@
-### Learning through trial & error. Often not by choice. 😉
+### Learning through trial & error - often not by choice 😉
 
 ---
 
