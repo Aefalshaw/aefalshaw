@@ -15,7 +15,7 @@
 ⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
 With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
 
-Feel free to check out my resume markdown repo or view it here: file:///C:/Users/alyfa/Downloads/Falshaw_Resume.pdf
+Check out my resume markdown repo
 
 ### 😷 Stay safe and happy coding!
 
