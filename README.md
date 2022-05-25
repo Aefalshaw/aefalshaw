@@ -2,9 +2,7 @@
 
 ---
 
-Thanks for swinging by
-
-👾 I'm currently a newer face in the industry but have some really neat things in route. I'm a full time teaching assistant at a local Seattle bootcamp - Coding Dojo. I made the most of my pandemic shut-in by attending and graduating from this same bootcamp in 2020. I left my position in the direct line of healthcare to switch career fields but hope to return someday with my new skill set addition. My drive to help others in unique ways has always been the backbone to my motivation of work.
+👾 I'm a full time teaching assistant at a local Seattle bootcamp - Coding Dojo. I made the most of my pandemic shut-in by attending and graduating from this same bootcamp in 2020. I left my position in the direct line of healthcare to switch career fields but hope to return someday with my new skill set addition. My drive to help others in unique ways has always been the backbone to my motivation of work.
 
 🚀 Upon graduating from Coding Dojo I wanted to take my skill set farther. Just this year I applied and was accepted into a nationwide program known as Year Up. The non-profit has given me the opportunity to truly blossom and hone in on my career path and interests as a developer. Since graduation I have been polishing my professionalism and personal brand as well as being given a 6 month internship with Tableau/Salesforce. It's often difficult to get over the wall of not obtaining a bachelor's degree in the industry but I'm here to prove it's possible. 
 
@@ -15,7 +13,7 @@ Thanks for swinging by
 ⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
 With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
 
-Check out my resume markdown repo
+Thanks for swinging by - Check out my resume repo before you head out
 
 ### 😷 Stay safe and happy coding!
 
