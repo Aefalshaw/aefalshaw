@@ -13,7 +13,7 @@
 ⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
 With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
 
-Thanks for swinging by - Check out my resume repo before you head out
+Thanks for swinging by & check out my resume repo before you head out
 
 ### 😷 Stay safe and happy coding!
 
