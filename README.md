@@ -12,7 +12,7 @@
 
 ⚔️ Follow my journey and progress in the industry, and feel free to reach out anytime. I greatly appreciate any advice and direction. Thank you for swinging by & check out my resume repo before you head out.
 
-###😷 Stay safe and happy coding!
+### 😷 Stay safe and happy coding!
 
 ---
 
