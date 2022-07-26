@@ -1,21 +1,18 @@
-### Learning through trial & error - often not by choice 😉
+### Learning through trial & error 😉
 
 ---
 
-👾 I'm a full time teaching assistant at a local Seattle bootcamp - Coding Dojo. I made the most of my pandemic shut-in by attending and graduating from this same bootcamp in 2020. I left my position in the direct line of healthcare to switch career fields but hope to return someday with my new skill set addition. My drive to help others in unique ways has always been the backbone to my motivation of work.
+👾 I'm a full-time teaching assistant at a coding boot camp - Coding Dojo. I made the most of my pandemic shut-in by taking a chance on myself and my career and pursuing programming full-time. I left my position in the direct line of healthcare and have found my passion in the software industry. Regardless, my drive to help others in unique ways has always been the backbone of my motivation for work.
 
-🚀 Upon graduating from Coding Dojo I wanted to take my skill set farther. Just this year I applied and was accepted into a nationwide program known as Year Up. The non-profit has given me the opportunity to truly blossom and hone in on my career path and interests as a developer. Since graduation I have been polishing my professionalism and personal brand as well as being given a 6 month internship with Tableau/Salesforce. It's often difficult to get over the wall of not obtaining a bachelor's degree in the industry but I'm here to prove it's possible. 
+🚀 Upon completing Coding Dojo's program myself, I wanted to take my skill set further. A non-profit, Year Up, has allowed me to blossom and hone in on my career path and interests as a developer. Since completion, I have been polishing my professionalism and personal brand. Through Year Up, I earned a full-time intership with Tableau that provided me with industry-level experience collaborting with a team of engineers and UX/UI designers. It's often difficult to take on the industry without obtaining a bachelor's degree, but I'm here to prove it's possible. 
 
-👩‍💻 My bootcamp experience covered fullstack development through Javascript, Python, and C#. I have experience and knowledge with OOP and the foundational core concepts involved in coding regardless of the language. More personally, in my free time I've been researching data analytics and how to manipulate data in unique ways. Catching my eye I've been focusing on Python, and SQL.
+👩‍💻 My boot camp experience covered full stack development through Javascript, Python, and C#. I have experience and knowledge with OOP and the foundational core concepts involved in programming. More personally, in my free time, I've been researching data analytics and how to manipulate data in unique ways. Catching my eye, I've been focusing on Python and SQL relating to data interpretation.
 
-✈️ Outside of being online, I love to unplug and travel the world. My more recent trips have been very local, outdoors, and socially distanced but my history of experiencing new cultures, traditions and especially new foods has made me the eccentric wild card I am today. Diversity has always been extremely important to me and I am looking forward to one day being a part of a team that holds strong to this as well. 
+✈️ Outside of being online, I love to unplug and travel the world. Although my recent trips have been local, outdoors, and socially distanced, it hasn't stopped me from having eccentric life experiences. Diversity has always been crucial in my life, and I look forward to working with a team and company with that same sense of community.
 
-⚔️ Follow my journey and progress in the industry and feel free to reach out anytime, I greatly appreciate any advice and direction. 
-With everything going on I am not currently looking to collaborate on projects but will notify when that gate has opened once again.
+⚔️ Follow my journey and progress in the industry, and feel free to reach out anytime. I greatly appreciate any advice and direction. Thank you for swinging by & check out my resume repo before you head out.
 
-Thanks for swinging by & check out my resume repo before you head out
-
-### 😷 Stay safe and happy coding!
+###😷 Stay safe and happy coding!
 
 ---
 
