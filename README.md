@@ -1,4 +1,4 @@
-### Learning through trial & error 😉
+### Learning through trial & error
 
 ---
 
