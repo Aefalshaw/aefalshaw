@@ -10,7 +10,7 @@ Greetings, I go by Aly and I am currently an Integrations Engineer for a payment
 
 👩‍💻 My boot camp experience covered full stack development through Javascript, Python, and C#. I have experience and knowledge with OOP and the foundational core concepts involved in programming. More personally, in my free time, I've been researching data analytics and how to manipulate data in unique ways. Catching my eye, I've been focusing on Python and SQL relating to data interpretation.
 
-✈️ Outside of being online, I love to unplug and travel the world. Diversity has always been crucial in my life, and I look forward to always working with a team and company with that same sense of eccentric community. I am an active member of the outdoors - you can find me hiking, biking, running, snowboarding, wakeboarding or mountain biking all depedning on the season.
+✈️ Outside of being online, I love to unplug and travel the world. Diversity has always been crucial in my life, and I look forward to always working with a team and company with that same sense of eccentric community. I am an active member of the outdoors - you can find me hiking, biking, running, snowboarding, wakeboarding or mountain biking all depedning on the season. I indulge in photography on my free time or just taking it easy with my two dogs Snowball & Astra.
 
 ⚔️ Follow my journey and progress in the industry, and feel free to reach out anytime. I greatly appreciate any advice and direction.
 
