@@ -1,4 +1,4 @@
-### FullStack Ahead | Autodidact & Ambivert | Perspective is Everything
+### FullStack Ahead  |  Autodidact & Ambivert  |  Perspective is Everything
 
 ---
 
