@@ -1,4 +1,4 @@
-### FullStack Background |  Autodidact & Ambivert  |  Perspective is Everything
+### Autodidact & Ambivert  |  Perspective is Everything
 
 ---
 
