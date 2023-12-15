@@ -1,4 +1,4 @@
-### Autodidact & Ambivert  |  Perspective is Everything
+### Autodidact |  Perspective is Everything
 
 ---
 
