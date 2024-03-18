@@ -1,7 +1,7 @@
 ### Autodidact |  Perspective is Everything
 
 ---
-Happy March! My name is Aly, and I am currently seeking exciting employment opportunities in technical support or customer success. With a strong desire to enhance my skills and experience, I am keen to explore avenues that allow me to leverage my recent experience.
+Happy March! My name is Aly, and I am currently seeking exciting new employment opportunities in the technical support or customer success realm. With a strong desire to enhance my skills and experience, I am keen to explore avenues that allow me to leverage my recent experience.
 
 In my most recent position, I worked as a Site Reliability Engineer at BillGO INC, a bill pay software for fintech and financial institutions. My responsibilities included developing automated processes for data extraction, loading, and transformation, as well as integrating web data into databases to support customer-facing applications using the .NET framework. I collaborated with team members to streamline integrations across various product teams and documented integration procedures, troubleshooting techniques, and best practices for knowledge sharing and growth. As I handled various test and bug issues through support tickets and system health monitoring, I focused on addressing the most critical system issues.
 
